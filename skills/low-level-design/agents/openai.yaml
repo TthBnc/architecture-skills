@@ -1,0 +1,4 @@
+interface:
+  display_name: "Low-level Design"
+  short_description: "Design component contracts, state, and responsibilities"
+  default_prompt: "Use $low-level-design to design this component's responsibilities, contracts, state transitions, and validation plan."

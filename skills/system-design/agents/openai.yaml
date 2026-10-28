@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Design"
+  short_description: "Design practical systems from explicit constraints"
+  default_prompt: "Use $system-design to develop an architecture for my requirements and explain the key tradeoffs."

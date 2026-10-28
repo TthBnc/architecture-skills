@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Design Review"
+  short_description: "Assess architecture risks against real requirements"
+  default_prompt: "Use $system-design-review to review this architecture against its requirements and prioritize evidenced risks."

@@ -1,0 +1,4 @@
+interface:
+  display_name: "System Design Practice"
+  short_description: "Practice architecture interviews with focused feedback"
+  default_prompt: "Use $system-design-practice to run a system design mock interview, asking one question at a time."

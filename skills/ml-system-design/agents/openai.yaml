@@ -1,0 +1,4 @@
+interface:
+  display_name: "ML System Design"
+  short_description: "Design practical ML systems and their lifecycle"
+  default_prompt: "Use $ml-system-design to design this ML-backed feature, compare a baseline with alternatives, and define its data and evaluation flows."
